@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/coursework/UnrealGame/Group4Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/coursework/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
+				"D:/coursework/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/7F/5VDCUTXEJ871D6M5CTCNK0.uasset"
+			]
+		}
+	]
+}
