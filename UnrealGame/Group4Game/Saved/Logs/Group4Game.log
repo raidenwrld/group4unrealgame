@@ -2701,3 +2701,13 @@ The project directory:
 [2025.03.17-11.34.34:168][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 904 ms (total: 7.36 sec)
 [2025.03.17-11.34.34:169][454]AssetCheck: New page: Asset Save: MainMenu
 [2025.03.17-11.34.34:169][454]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDown/Maps/MainMenu.MainMenu
+[2025.03.17-11.39.55:577][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-11.39.55:640][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/MainMenu" FILE="H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/TopDown/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.17-11.39.55:769][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.17-11.39.56:678][769]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/MainMenu
+[2025.03.17-11.39.56:693][769]LogSavePackage: Moving 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MainMenu187B72C24D53423E5830799FEDD1768E.tmp' to 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/TopDown/Maps/MainMenu.umap'
+[2025.03.17-11.39.56:727][769]LogFileHelpers: All files are already saved.
+[2025.03.17-11.39.56:737][769]LogFileHelpers: Saving map 'MainMenu' took 1.098
+[2025.03.17-11.39.56:743][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.16 sec (total: 8.53 sec)
+[2025.03.17-11.39.56:744][769]AssetCheck: New page: Asset Save: MainMenu
+[2025.03.17-11.39.56:744][769]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDown/Maps/MainMenu.MainMenu
