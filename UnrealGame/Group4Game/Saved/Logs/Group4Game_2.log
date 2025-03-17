@@ -1441,3 +1441,42 @@ The project directory:
 [2025.03.17-13.42.15:018][545]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.31% of total time (compiled  128 times, average 0.43 sec, max 2.72 sec, min 0.13 sec)
 [2025.03.17-13.42.15:018][545]LogShaderCompilers: Display: ================================================
 [2025.03.17-13.42.15:426][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-13.45.23:986][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-13.45.24:049][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_GameUI" FILE="H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/UI/WB_GameUI.uasset" SILENT=true
+[2025.03.17-13.45.24:283][219]LogSavePackage: Moving output files for package: /Game/UI/WB_GameUI
+[2025.03.17-13.45.24:283][219]LogSavePackage: Moving 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/WB_GameUI656D5DF843553E03CE0DE8A1547191B1.tmp' to 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/UI/WB_GameUI.uasset'
+[2025.03.17-13.45.24:298][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 311 ms
+[2025.03.17-13.45.24:298][219]AssetCheck: New page: Asset Save: WB_GameUI
+[2025.03.17-13.45.24:299][219]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_GameUI.WB_GameUI
+[2025.03.17-13.47.31:444][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-13.47.31:499][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_GameUI" FILE="H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/UI/WB_GameUI.uasset" SILENT=true
+[2025.03.17-13.47.31:705][376]LogSavePackage: Moving output files for package: /Game/UI/WB_GameUI
+[2025.03.17-13.47.31:711][376]LogSavePackage: Moving 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/WB_GameUIFC768B6A40F5F084630C4BB88E0D43D3.tmp' to 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/UI/WB_GameUI.uasset'
+[2025.03.17-13.47.31:728][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 595 ms)
+[2025.03.17-13.47.31:728][376]AssetCheck: New page: Asset Save: WB_GameUI
+[2025.03.17-13.47.31:728][376]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_GameUI.WB_GameUI
+[2025.03.17-13.50.47:021][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-13.50.47:074][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_GameUI" FILE="H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/UI/WB_GameUI.uasset" SILENT=true
+[2025.03.17-13.50.47:282][616]LogSavePackage: Moving output files for package: /Game/UI/WB_GameUI
+[2025.03.17-13.50.47:287][616]LogSavePackage: Moving 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/WB_GameUI352030B046B2813AEFA35D98187CC47A.tmp' to 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/UI/WB_GameUI.uasset'
+[2025.03.17-13.50.47:305][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 878 ms)
+[2025.03.17-13.50.47:305][616]AssetCheck: New page: Asset Save: WB_GameUI
+[2025.03.17-13.50.47:305][616]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_GameUI.WB_GameUI
+[2025.03.17-13.50.57:897][848]LogSlate: Window 'WB_GameUI' being destroyed
+[2025.03.17-13.50.57:903][848]LogSlate: Window 'WB_GameUI' being destroyed
+[2025.03.17-13.50.57:907][848]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-13.50.57:907][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-13.50.57:926][848]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-13.50.57:926][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-13.51.02:286][349]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_GameUI.WB_GameUI
+[2025.03.17-13.51.02:286][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-13.51.02:286][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-13.51.02:295][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-13.51.02:295][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-13.51.44:833][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-13.51.44:892][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_GameUI" FILE="H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/UI/WB_GameUI.uasset" SILENT=true
+[2025.03.17-13.51.45:147][422]LogSavePackage: Moving output files for package: /Game/UI/WB_GameUI
+[2025.03.17-13.51.45:152][422]LogSavePackage: Moving 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/WB_GameUI4CE5263946873FA39726FBBB2798DCA5.tmp' to 'H:/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/UI/WB_GameUI.uasset'
+[2025.03.17-13.51.45:170][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 1.21 sec)
+[2025.03.17-13.51.45:170][422]AssetCheck: New page: Asset Save: WB_GameUI
+[2025.03.17-13.51.45:170][422]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_GameUI.WB_GameUI
