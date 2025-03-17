@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/enimiy.uasset",
+				"C:/Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/walkEnemy.uasset",
+				"C:/Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/apEnemyAI.uasset",
+				"C:/Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/I4/6SHIFAX2A5ZARRKA5Z4PPH.uasset",
+				"C:/Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/LJ/55T30D95ESJQVJ1Q59UDUS.uasset",
 				"C:/Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/0I/PFMFMMAZFLT0NTV2ZAO8OA.uasset",
 				"C:/Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/SY/Y8475SUVOZMH0COV8H1Q7T.uasset",
 				"C:/Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/5K/NUNDGACQMY4LFPLTZJH6GW.uasset",
