@@ -2212,3 +2212,129 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2025.03.17-11.23.48:066][886]AssetCheck: New page: Asset Save: multiple assets
 [2025.03.17-11.23.48:066][886]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_UAID_9C7BEF43BEFEFB5502_1582859434
 [2025.03.17-11.23.48:066][886]LogContentValidation: Display: Validating /Game/Characters/enimiy.enimiy_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.enimiy_C_UAID_9C7BEF43BEFEFB5502_1538201433
+[2025.03.17-11.24.30:221][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-11.24.30:221][240]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.17-11.24.30:221][240]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-11.24.30:222][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-11.24.30:222][240]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.03.17-11.24.30:225][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-11.24.30:232][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-11.24.30:251][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-11.24.30:252][240]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.17-11.24.30:252][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.17-11.24.30:254][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.17-11.24.30:259][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-11.24.30:262][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.03.17-11.24.30:336][241]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.03.17-11.28.02:179][ 73]Cmd: EDIT COPY
+[2025.03.17-11.28.02:756][114]Cmd: EDIT PASTE
+[2025.03.17-11.28.12:051][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-11.28.12:064][758]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.17-11.28.12:064][758]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.03.17-11.28.12:071][758]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 6 ms (total: 48 ms)
+[2025.03.17-11.28.12:071][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-11.28.12:071][758]PIE: New page: PIE session: TopDownMap (17 Mar 2025, 11:28:12)
+[2025.03.17-11.28.12:071][758]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.17-11.28.12:076][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004805s)
+[2025.03.17-11.28.12:076][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004840s)
+[2025.03.17-11.28.12:093][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.17-11.28.12:095][758]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-11.28.12:095][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-11.28.12:096][758]LogAIModule: Creating AISystem for world TopDownMap
+[2025.03.17-11.28.12:097][758]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.17-11.28.12:097][758]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.17-11.28.12:097][758]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.17-11.28.12:097][758]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.17-11.28.12:098][758]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.03.17-11.28.12:098][758]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 402 ms)
+[2025.03.17-11.28.12:098][758]LogPlayLevel: PIE: World Init took: (0.003261s)
+[2025.03.17-11.28.12:098][758]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.03.17-11.28.12:098][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-11.28.12:098][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-11.28.12:098][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-11.28.12:098][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-11.28.12:098][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-11.28.12:098][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-11.28.12:098][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-11.28.12:098][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-11.28.12:098][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-11.28.12:098][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-11.28.12:098][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-11.28.12:101][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-11.28.12:124][758]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.17-11.28.12:125][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-11.28.12:125][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-11.28.12:125][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-11.28.12:129][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.03.17-11.28.12:129][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.03.17-11.28.12:130][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.03.17-11.28.12:131][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.03.17-11.28.12:131][758]LogInit: FAudioDevice initialized with ID 8.
+[2025.03.17-11.28.12:131][758]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownMap'.
+[2025.03.17-11.28.12:131][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.17-11.28.12:133][758]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.03.17-11.28.12:140][758]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.03.17-11.28.12
+[2025.03.17-11.28.12:140][758]LogWorld: Bringing up level for play took: 0.006736
+[2025.03.17-11.28.12:143][758]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.03.17-11.28.12:146][758]PIE: Server logged in
+[2025.03.17-11.28.12:147][758]PIE: Play in editor total start time 0.083 seconds.
+[2025.03.17-11.28.26:090][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-11.28.26:090][131]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.17-11.28.26:090][131]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-11.28.26:090][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-11.28.26:091][131]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.03.17-11.28.26:095][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-11.28.26:100][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-11.28.26:117][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-11.28.26:118][131]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.17-11.28.26:118][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.17-11.28.26:119][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.17-11.28.26:123][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-11.28.26:126][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.17-11.28.26:196][132]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.03.17-11.29.11:415][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.17-11.29.11:421][196]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/83/R6BRD0KHB814HJIZGMTQ1J_Auto4
+[2025.03.17-11.29.11:421][196]LogSavePackage: Moving '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/R6BRD0KHB814HJIZGMTQ1J_Auto40CD9B6B3473D26283C7700AD64087A3F.tmp' to '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/83/R6BRD0KHB814HJIZGMTQ1J_Auto4.uasset'
+[2025.03.17-11.29.11:425][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.026
+[2025.03.17-11.29.11:425][196]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2025.03.17-11.30.39:065][324]Cmd: DELETE
+[2025.03.17-11.30.39:065][324]Cmd: ACTOR DELETE
+[2025.03.17-11.30.39:070][324]LogEditorActor: Deleted Actor: enimiy_C
+[2025.03.17-11.30.39:095][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.17-11.30.39:097][324]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.03.17-11.33.57:656][100]BlueprintLog: New page: Compile enimiy
+[2025.03.17-11.33.57:736][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.17-11.33.58:227][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-11.33.58:323][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/enimiy" FILE="../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/enimiy.uasset" SILENT=true
+[2025.03.17-11.33.58:332][143]LogSavePackage: Moving output files for package: /Game/Characters/enimiy
+[2025.03.17-11.33.58:334][143]LogSavePackage: Moving '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/enimiy16AE95204C5B97DED63A2D82EA5AE602.tmp' to '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/enimiy.uasset'
+[2025.03.17-11.33.58:354][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 1.38 sec)
+[2025.03.17-11.33.58:357][143]AssetCheck: New page: Asset Save: enimiy
+[2025.03.17-11.33.58:357][143]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/enimiy.enimiy
+[2025.03.17-11.35.55:940][510]BlueprintLog: New page: Compile apEnemyAI
+[2025.03.17-11.35.55:979][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.17-11.35.56:681][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-11.35.56:730][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/apEnemyAI" FILE="../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/apEnemyAI.uasset" SILENT=true
+[2025.03.17-11.35.56:741][565]LogSavePackage: Moving output files for package: /Game/Characters/apEnemyAI
+[2025.03.17-11.35.56:743][565]LogSavePackage: Moving '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/apEnemyAI68E52AC54A3F2BB1E89070844632916C.tmp' to '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/apEnemyAI.uasset'
+[2025.03.17-11.35.56:750][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.45 sec)
+[2025.03.17-11.35.56:753][565]AssetCheck: New page: Asset Save: apEnemyAI
+[2025.03.17-11.35.56:753][565]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/apEnemyAI.apEnemyAI
+[2025.03.17-11.36.04:803][367]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2025.03.17-11.36.06:770][581]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.03.17-11.36.37:382][697]BlueprintLog: New page: Compile enimiy
+[2025.03.17-11.36.37:448][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.17-11.36.38:340][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-11.36.38:423][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/enimiy" FILE="../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/enimiy.uasset" SILENT=true
+[2025.03.17-11.36.38:432][782]LogSavePackage: Moving output files for package: /Game/Characters/enimiy
+[2025.03.17-11.36.38:434][782]LogSavePackage: Moving '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/enimiyAD09A1EE4E6B3D2B28363F867C711F18.tmp' to '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/Characters/enimiy.uasset'
+[2025.03.17-11.36.38:444][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.55 sec)
+[2025.03.17-11.36.38:448][782]AssetCheck: New page: Asset Save: enimiy
+[2025.03.17-11.36.38:448][782]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/enimiy.enimiy
+[2025.03.17-11.39.11:386][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.03.17-11.39.11:389][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.023
+[2025.03.17-11.39.11:389][666]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/enimiy] ([2] browsable assets)...
+[2025.03.17-11.39.11:389][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/enimiy]
+[2025.03.17-11.39.11:398][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/enimiy_Auto5
+[2025.03.17-11.39.11:398][666]LogSavePackage: Moving '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/enimiy_Auto56200422F488B523F81D9AEB72F391686.tmp' to '../../../../../../Users/p2801629/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/Characters/enimiy_Auto5.uasset'
+[2025.03.17-11.39.11:400][666]LogFileHelpers: Auto-saving content packages took 0.012
