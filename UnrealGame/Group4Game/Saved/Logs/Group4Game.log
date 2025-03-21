@@ -2405,3 +2405,442 @@ Script Stack (0 frames) :
 [2025.03.21-14.49.13:024][653]LogContentValidation: Display: Validating /Game/Characters/Enemy/enimiy.enimiy_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.enimiy_C_UAID_9C7BEF43BEFEFB5502_1538201433
 [2025.03.21-14.49.13:024][653]LogContentValidation: Display: Validating /Game/Characters/Enemy/enimiy.enimiy_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.enimiy_C_UAID_C0A5E8E8DBF34A5702_1491905393
 [2025.03.21-14.49.13:024][653]LogContentValidation: Display: Validating /Game/Characters/Enemy/enimiy.enimiy_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.enimiy_C_UAID_C0A5E8E8DBF34A5702_1499246394
+[2025.03.21-14.51.20:896][320]LogViewport: Scene viewport resized to 2044x1214, mode Windowed.
+[2025.03.21-14.51.20:913][321]LogViewport: Scene viewport resized to 2031x1214, mode Windowed.
+[2025.03.21-14.51.20:946][322]LogViewport: Scene viewport resized to 1974x1214, mode Windowed.
+[2025.03.21-14.51.20:968][323]LogViewport: Scene viewport resized to 1927x1214, mode Windowed.
+[2025.03.21-14.51.20:994][324]LogViewport: Scene viewport resized to 1875x1214, mode Windowed.
+[2025.03.21-14.51.21:016][325]LogViewport: Scene viewport resized to 1811x1214, mode Windowed.
+[2025.03.21-14.51.21:068][326]LogViewport: Scene viewport resized to 1706x1214, mode Windowed.
+[2025.03.21-14.51.21:108][327]LogViewport: Scene viewport resized to 1675x1214, mode Windowed.
+[2025.03.21-14.51.21:132][328]LogViewport: Scene viewport resized to 1666x1214, mode Windowed.
+[2025.03.21-14.51.21:153][329]LogViewport: Scene viewport resized to 1658x1214, mode Windowed.
+[2025.03.21-14.51.21:173][330]LogViewport: Scene viewport resized to 1649x1214, mode Windowed.
+[2025.03.21-14.51.21:191][331]LogViewport: Scene viewport resized to 1642x1214, mode Windowed.
+[2025.03.21-14.51.21:211][332]LogViewport: Scene viewport resized to 1638x1214, mode Windowed.
+[2025.03.21-14.51.21:250][334]LogViewport: Scene viewport resized to 1634x1214, mode Windowed.
+[2025.03.21-14.51.21:283][336]LogViewport: Scene viewport resized to 1630x1214, mode Windowed.
+[2025.03.21-14.51.21:300][337]LogViewport: Scene viewport resized to 1626x1214, mode Windowed.
+[2025.03.21-14.51.21:316][338]LogViewport: Scene viewport resized to 1624x1214, mode Windowed.
+[2025.03.21-14.51.21:338][339]LogViewport: Scene viewport resized to 1622x1214, mode Windowed.
+[2025.03.21-14.51.21:357][340]LogViewport: Scene viewport resized to 1617x1214, mode Windowed.
+[2025.03.21-14.51.21:374][341]LogViewport: Scene viewport resized to 1610x1214, mode Windowed.
+[2025.03.21-14.51.21:394][342]LogViewport: Scene viewport resized to 1601x1214, mode Windowed.
+[2025.03.21-14.51.21:414][343]LogViewport: Scene viewport resized to 1590x1214, mode Windowed.
+[2025.03.21-14.51.21:432][344]LogViewport: Scene viewport resized to 1589x1214, mode Windowed.
+[2025.03.21-14.52.08:735][120]LogStaticMesh: Display: Building static mesh Floor_400x400...
+[2025.03.21-14.52.08:747][120]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.03.21-14.52.12:081][314]Cmd: EDIT CUT
+[2025.03.21-14.52.12:084][314]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.21-14.52.12:095][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.21-14.52.12:103][314]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.03.21-14.52.13:325][388]Cmd: TRANSACTION UNDO
+[2025.03.21-14.52.13:325][388]LogEditorTransaction: Undo Cut
+[2025.03.21-14.52.13:743][400]Cmd: TRANSACTION UNDO
+[2025.03.21-14.52.13:743][400]LogEditorTransaction: Undo Edit Static Mesh
+[2025.03.21-14.52.51:359][607]Cmd: TRANSACTION UNDO
+[2025.03.21-14.52.51:360][607]LogEditorTransaction: Undo Edit Static Mesh
+[2025.03.21-14.52.57:482][944]LogMaterial: Display: Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid needed to have new flag set bUsedWithNanite !
+[2025.03.21-14.52.57:792][946]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2025.03.21-14.52.57:891][946]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2025.03.21-14.52.58:091][946]LogD3D12RHI: Warning: Waited for PSO creation for 400.000000ms
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: ================================================
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Total job queries 65, among them cache hits 0 (0.00%)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Tracking 15 distinct input hashes that result in 12 distinct outputs (80.00%)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: RAM used: 342.75 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Shaders Compiled: 15
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Jobs assigned 57, completed 15 (26.32%)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Average time worker was idle: 529.49 s
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.47 s
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 1.34 s
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 1.47
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Shader code size: average 33.804 KiB, min 4.465 KiB, max 45.199 KiB
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.45 s
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 2.48 jobs/batch
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Average processing rate: 6.13 jobs/sec
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Total thread time: 3.921 s
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Total thread preprocess time: 0.443 s
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Percentage time preprocessing: 11.29%
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Effective parallelization: 1.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.36 sec, max 0.56 sec, min 0.22 sec)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.31 sec, max 0.31 sec, min 0.30 sec)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.27 sec, max 0.31 sec, min 0.24 sec)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.25 sec, max 0.28 sec, min 0.21 sec)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.21% of total time (compiled    3 times, average 0.36 sec, max 0.56 sec, min 0.22 sec)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 15.60% of total time (compiled    2 times, average 0.31 sec, max 0.31 sec, min 0.30 sec)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.00% of total time (compiled    2 times, average 0.27 sec, max 0.31 sec, min 0.24 sec)
+[2025.03.21-14.52.59:214][947]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.67% of total time (compiled    2 times, average 0.25 sec, max 0.28 sec, min 0.21 sec)
+[2025.03.21-14.52.59:216][947]LogShaderCompilers: Display:                                                  FVelocityVS - 12.28% of total time (compiled    2 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2025.03.21-14.52.59:216][947]LogShaderCompilers: Display: ================================================
+[2025.03.21-14.53.02:535][ 35]Cmd: TRANSACTION UNDO
+[2025.03.21-14.53.02:535][ 35]LogEditorTransaction: Undo Edit Static Mesh
+[2025.03.21-14.53.58:991][116]Cmd: ACTOR CREATE_BV_CONVEXVOLUME NORMALTOLERANCE=0.75 SnapToGrid=1
+[2025.03.21-14.53.58:993][116]Cmd: BRUSH ADDVOLUME CLASS=BlockingVolume
+[2025.03.21-14.53.59:001][116]LogClass: Warning: Short type name "BlockingVolume" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.BlockingVolume"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.03.21-14.54.01:216][240]Cmd: ACTOR CREATE_BV_BOUNDINGBOX SnapToGrid=1
+[2025.03.21-14.54.01:218][240]Cmd: BRUSH ADDVOLUME CLASS=BlockingVolume
+[2025.03.21-14.54.01:227][240]LogClass: Warning: Short type name "BlockingVolume" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.BlockingVolume"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.03.21-14.54.04:935][448]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound needed to have new flag set bUsedWithNanite !
+[2025.03.21-14.54.21:646][622]LogSlate: Window 'Material Baking Options' being destroyed
+[2025.03.21-14.54.21:712][622]LogMaterialBaking: Verbose: Performing material baking for 1 materials
+[2025.03.21-14.54.22:741][622]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572.T_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_BaseColor (BGRA8, 1x128 x1x1x1) (Required Memory Estimate: 0.066231 MB), EncodeSpeed: Fast
+[2025.03.21-14.54.24:654][714]Cmd: TRANSACTION UNDO
+[2025.03.21-14.54.24:654][714]LogEditorTransaction: Undo Edit X
+[2025.03.21-14.54.28:717][821]Cmd: TRANSACTION UNDO
+[2025.03.21-14.54.28:718][821]LogEditorTransaction: Undo Create Bounding Box Blocking Volume
+[2025.03.21-14.54.41:466][947]LogSlate: Window 'Material Baking Options' being destroyed
+[2025.03.21-14.54.41:529][947]LogMaterialBaking: Verbose: Performing material baking for 1 materials
+[2025.03.21-14.54.42:582][947]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870.T_M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870_BaseColor (TFO_DXT1, 1000x1000 x1x1x1) (Required Memory Estimate: 119.763376 MB), EncodeSpeed: Fast
+[2025.03.21-14.54.42:596][947]LogDerivedDataCache: C:/Users/Kieran Sayer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Kieran Sayer/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/6e/56/db8a431d5b75a20b769dfc2880ec0a6cae71.udd from '/Game/LevelPrototyping/Meshes/M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870.T_M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870_BaseColor'.
+[2025.03.21-14.54.54:441][476]LogSlate: Window 'Material Baking Options' being destroyed
+[2025.03.21-14.55.20:356][951]Cmd: TRANSACTION UNDO
+[2025.03.21-14.55.20:356][951]LogEditorTransaction: Undo Move Elements
+[2025.03.21-14.58.06:609][409]Cmd: ACTOR CREATE_BV_CONVEXVOLUME NORMALTOLERANCE=0.15 SnapToGrid=1
+[2025.03.21-14.58.06:610][409]Cmd: BRUSH ADDVOLUME CLASS=BlockingVolume
+[2025.03.21-14.58.06:618][409]LogClass: Warning: Short type name "BlockingVolume" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.BlockingVolume"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.03.21-14.58.32:245][752]LogSlate: Window 'Material Baking Options' being destroyed
+[2025.03.21-15.00.08:481][234]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor
+[2025.03.21-15.00.08:527][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.21-15.00.08:527][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-15.00.08:721][234]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.21-15.00.08:721][234]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.21-15.00.08:721][234]MaterialEditorStats: Shader Count: 0
+[2025.03.21-15.00.08:767][234]LogViewport: Scene viewport resized to 322x395, mode Windowed.
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: ================================================
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Total job queries 233, among them cache hits 0 (0.00%)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Tracking 229 distinct input hashes that result in 170 distinct outputs (74.24%)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: RAM used: 6.10 MiB of 1.60 GiB budget. Usage: 0.37%
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Shaders Compiled: 229
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Jobs assigned 233, completed 229 (98.28%)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Average time worker was idle: 81.10 s
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Time job spent in pending queue: average 0.68 s, longest 5.54 s
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Job execution time: average 2.77 s, max 9.46 s
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Job life time (pending + execution): average 3.46 s, max 9.47
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Shader code size: average 44.694 KiB, min 3.699 KiB, max 72.469 KiB
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.46 s
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Jobs were issued in 138 batches (only local compilation was used), average 1.69 jobs/batch
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Average processing rate: 8.05 jobs/sec
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Total thread time: 171.503 s
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Total thread preprocess time: 10.728 s
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Percentage time preprocessing: 6.26%
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Effective parallelization: 6.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    4 times, average 1.60 sec, max 1.75 sec, min 1.42 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    8 times, average 1.25 sec, max 2.80 sec, min 0.21 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    8 times, average 1.19 sec, max 2.68 sec, min 0.17 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    8 times, average 1.12 sec, max 2.50 sec, min 0.17 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    8 times, average 1.09 sec, max 2.24 sec, min 0.18 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.34% of total time (compiled   16 times, average 0.89 sec, max 2.52 sec, min 0.19 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.84% of total time (compiled    8 times, average 1.25 sec, max 2.80 sec, min 0.21 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 5.54% of total time (compiled    8 times, average 1.19 sec, max 2.68 sec, min 0.17 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.50% of total time (compiled    9 times, average 1.05 sec, max 2.36 sec, min 0.19 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.32% of total time (compiled    9 times, average 1.01 sec, max 2.34 sec, min 0.19 sec)
+[2025.03.21-15.00.09:350][251]LogShaderCompilers: Display: ================================================
+[2025.03.21-15.00.09:381][252]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.21-15.00.09:382][252]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.21-15.00.09:382][252]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.21-15.00.09:382][252]MaterialEditorStats: Shader Count: 2
+[2025.03.21-15.00.09:477][255]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.03.21-15.00.09:477][255]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.21-15.00.09:477][255]MaterialEditorStats: Texture samplers: 2/16
+[2025.03.21-15.00.09:477][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.21-15.00.09:477][255]MaterialEditorStats: Shader Count: 3
+[2025.03.21-15.00.22:760][627]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-15.00.30:870][887]LogSlate: Window 'Message' being destroyed
+[2025.03.21-15.00.30:875][887]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor
+(Selecting 'No' will cause all changes to be lost!)
+[2025.03.21-15.00.30:931][887]LogWorldPartition: Actor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BlockingVolume_UAID_C0A5E8E8DBF34A5702_1791814396 is unreachable without properly detaching object /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/BK/T4KFKSDZCFT32XPUP349EK.PackageMetaData in its package
+[2025.03.21-15.00.30:954][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.21-15.00.31:465][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.21-15.00.31:481][887]LogSlate: Window 'M_Basic_Floor' being destroyed
+[2025.03.21-15.00.31:482][887]LogSlate: Window 'M_Basic_Floor' being destroyed
+[2025.03.21-15.00.31:496][887]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-15.00.31:496][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-15.00.31:582][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.21-15.00.38:540][274]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2025.03.21-15.00.38:546][274]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.21-15.00.38:546][274]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-15.00.38:703][274]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.21-15.00.38:703][274]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.21-15.00.38:703][274]MaterialEditorStats: Shader Count: 0
+[2025.03.21-15.00.38:741][274]LogViewport: Scene viewport resized to 323x396, mode Windowed.
+[2025.03.21-15.00.39:189][288]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.21-15.00.39:189][288]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.21-15.00.39:189][288]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.21-15.00.39:189][288]MaterialEditorStats: Shader Count: 1
+[2025.03.21-15.00.39:301][292]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.03.21-15.00.39:302][292]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.21-15.00.39:302][292]MaterialEditorStats: Texture samplers: 2/16
+[2025.03.21-15.00.39:302][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.21-15.00.39:302][292]MaterialEditorStats: Shader Count: 3
+[2025.03.21-15.01.21:701][466]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.21-15.01.22:440][508]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2025.03.21-15.01.22:448][508]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2025.03.21-15.01.22:459][508]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-15.01.22:459][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-15.01.24:810][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.21-15.01.24:815][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/MB/J5WHCOZ4GU1YICRISB3DL6_Auto5
+[2025.03.21-15.01.24:815][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/J5WHCOZ4GU1YICRISB3DL6_Auto5C1689F414D58555B46975A8DF8CF0B55.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/MB/J5WHCOZ4GU1YICRISB3DL6_Auto5.uasset'
+[2025.03.21-15.01.24:816][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/WM/EHOX3YPZ8BWS13D7E6IFN2_Auto5
+[2025.03.21-15.01.24:816][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/EHOX3YPZ8BWS13D7E6IFN2_Auto537FC3C664EC4D1CA873CC39F6C2BB3C2.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/WM/EHOX3YPZ8BWS13D7E6IFN2_Auto5.uasset'
+[2025.03.21-15.01.24:818][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/0N/RL1TIHXDU71LV1ECFNNBRR_Auto5
+[2025.03.21-15.01.24:818][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/RL1TIHXDU71LV1ECFNNBRR_Auto5DB303641409B1E395DA471B4112EE736.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/0N/RL1TIHXDU71LV1ECFNNBRR_Auto5.uasset'
+[2025.03.21-15.01.24:820][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/T3/MZCM8LHMP1PCMGK33WH67N_Auto5
+[2025.03.21-15.01.24:820][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MZCM8LHMP1PCMGK33WH67N_Auto5806D3229420E52CF17E9A5A32ED7F5A0.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/T3/MZCM8LHMP1PCMGK33WH67N_Auto5.uasset'
+[2025.03.21-15.01.24:822][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/HP/54G0WUXJN23S1QLIDW2G95_Auto5
+[2025.03.21-15.01.24:822][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/54G0WUXJN23S1QLIDW2G95_Auto5A8B3A48C4C874C108A0B608DD682C4F8.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/HP/54G0WUXJN23S1QLIDW2G95_Auto5.uasset'
+[2025.03.21-15.01.24:826][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/S6/RIUCPKK3VRMSYLN0I91KZ8_Auto5
+[2025.03.21-15.01.24:826][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/RIUCPKK3VRMSYLN0I91KZ8_Auto5E7CC7E6D4C0C9F3F58EDD7B4864C0BBF.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/S6/RIUCPKK3VRMSYLN0I91KZ8_Auto5.uasset'
+[2025.03.21-15.01.24:828][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/SB/DVQ5S68IUIMAJN0P0HA52Y_Auto5
+[2025.03.21-15.01.24:828][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/DVQ5S68IUIMAJN0P0HA52Y_Auto5841ED2E6474738C1F171228E7A55ED10.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/SB/DVQ5S68IUIMAJN0P0HA52Y_Auto5.uasset'
+[2025.03.21-15.01.24:829][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/LQ/C0XZ6NYGXKWM3ZFVZJX8PW_Auto5
+[2025.03.21-15.01.24:829][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/C0XZ6NYGXKWM3ZFVZJX8PW_Auto5418131A444696BC8D142A6A49A7B4B5A.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/LQ/C0XZ6NYGXKWM3ZFVZJX8PW_Auto5.uasset'
+[2025.03.21-15.01.24:833][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK_Auto5
+[2025.03.21-15.01.24:833][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/XOAZMB5QVL20UGXOCZ1LZK_Auto5751FF81A46907C19C25296A575F3D406.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK_Auto5.uasset'
+[2025.03.21-15.01.24:834][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/QE/I29UC0WQ1PRG4QCA0WAYDX_Auto5
+[2025.03.21-15.01.24:834][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/I29UC0WQ1PRG4QCA0WAYDX_Auto5704CCDD24775E2FC764E3DAF6FFC4FC8.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/QE/I29UC0WQ1PRG4QCA0WAYDX_Auto5.uasset'
+[2025.03.21-15.01.24:835][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/82/MH2RX5I0YPUW9CQS60Z9FZ_Auto5
+[2025.03.21-15.01.24:835][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MH2RX5I0YPUW9CQS60Z9FZ_Auto5BA3B73E542B87970849153978D39CBAD.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/82/MH2RX5I0YPUW9CQS60Z9FZ_Auto5.uasset'
+[2025.03.21-15.01.24:837][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/CH/8BFSE0OP1450WCGMXY7WKH_Auto5
+[2025.03.21-15.01.24:837][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/8BFSE0OP1450WCGMXY7WKH_Auto5352129824C760FB9F85877A4D94FB63B.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/CH/8BFSE0OP1450WCGMXY7WKH_Auto5.uasset'
+[2025.03.21-15.01.24:839][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/HD/XQWKC76FO76M7YDTHNXQGV_Auto5
+[2025.03.21-15.01.24:839][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/XQWKC76FO76M7YDTHNXQGV_Auto561139DC34F35612112FB03B92E69C808.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/HD/XQWKC76FO76M7YDTHNXQGV_Auto5.uasset'
+[2025.03.21-15.01.24:841][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/IH/VGSY15OFA48JW2MQVTVU8L_Auto5
+[2025.03.21-15.01.24:841][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/VGSY15OFA48JW2MQVTVU8L_Auto56A14D32D482B975D83E00A96BC37FD96.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/IH/VGSY15OFA48JW2MQVTVU8L_Auto5.uasset'
+[2025.03.21-15.01.24:843][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8_Auto5
+[2025.03.21-15.01.24:843][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/KCOU8O5LTCF16FPA9RNLK8_Auto58A3B654D4FA73D58BD872B8A15E2C992.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8_Auto5.uasset'
+[2025.03.21-15.01.24:846][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/81/ZKX29DC0MVHKRDA593CYHG_Auto5
+[2025.03.21-15.01.24:846][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/ZKX29DC0MVHKRDA593CYHG_Auto5215C1DBC431C4B6018CE72AC2D5D1BC2.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/81/ZKX29DC0MVHKRDA593CYHG_Auto5.uasset'
+[2025.03.21-15.01.24:848][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/DI/12FWOAABBIYZHZ6R2WANOO_Auto5
+[2025.03.21-15.01.24:848][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/12FWOAABBIYZHZ6R2WANOO_Auto5519BAC094BA2B5E3D7B1079A726B9CEE.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/DI/12FWOAABBIYZHZ6R2WANOO_Auto5.uasset'
+[2025.03.21-15.01.24:850][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/YD/RBZD6MG2XUPPE8HGQNSM68_Auto5
+[2025.03.21-15.01.24:850][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/RBZD6MG2XUPPE8HGQNSM68_Auto5F5C5583C4AC42C5A6D5F9FA50B8DA46E.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/YD/RBZD6MG2XUPPE8HGQNSM68_Auto5.uasset'
+[2025.03.21-15.01.24:852][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/BT/VXYK1VIHDY1PX5VCFY0RTE_Auto5
+[2025.03.21-15.01.24:852][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/VXYK1VIHDY1PX5VCFY0RTE_Auto521C88FAF47D48068700513B68341F9AA.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/BT/VXYK1VIHDY1PX5VCFY0RTE_Auto5.uasset'
+[2025.03.21-15.01.24:853][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/FI/60T1Y9H6JUROKGN63JFOIZ_Auto5
+[2025.03.21-15.01.24:853][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/60T1Y9H6JUROKGN63JFOIZ_Auto50F927B44444CD300045303B2916F9380.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/FI/60T1Y9H6JUROKGN63JFOIZ_Auto5.uasset'
+[2025.03.21-15.01.24:855][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/Q8/PTGUK37R2S64YD41PAYDAW_Auto5
+[2025.03.21-15.01.24:855][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/PTGUK37R2S64YD41PAYDAW_Auto52D3676A64B81C731E0EED9BBFD6FD0B0.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/Q8/PTGUK37R2S64YD41PAYDAW_Auto5.uasset'
+[2025.03.21-15.01.24:856][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/AO/MOS2K0LTUH3RKBWXWHNAGV_Auto5
+[2025.03.21-15.01.24:856][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MOS2K0LTUH3RKBWXWHNAGV_Auto5613533EA4B8687181BADE190C2E22925.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/AO/MOS2K0LTUH3RKBWXWHNAGV_Auto5.uasset'
+[2025.03.21-15.01.24:859][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/H5/O4JKMMTU3YENYCYE2BRNLX_Auto5
+[2025.03.21-15.01.24:859][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/O4JKMMTU3YENYCYE2BRNLX_Auto5A2BAD3F5424284765CCF7AAC0456748E.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/H5/O4JKMMTU3YENYCYE2BRNLX_Auto5.uasset'
+[2025.03.21-15.01.24:863][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/HJ/EVUEG1WGIQ5AE8Q7ORDUX8_Auto5
+[2025.03.21-15.01.24:863][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/EVUEG1WGIQ5AE8Q7ORDUX8_Auto52DA9FAA144166947FB51A199E5BB07AA.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/HJ/EVUEG1WGIQ5AE8Q7ORDUX8_Auto5.uasset'
+[2025.03.21-15.01.24:865][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/0K/H6PAO25ECLK1JTSUZ8WEU2_Auto5
+[2025.03.21-15.01.24:865][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/H6PAO25ECLK1JTSUZ8WEU2_Auto5AE9AAABD4914877B512D50A1AA893A6F.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/0K/H6PAO25ECLK1JTSUZ8WEU2_Auto5.uasset'
+[2025.03.21-15.01.24:867][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/PR1QS01SW5BWFPFZ9C79RF_Auto5
+[2025.03.21-15.01.24:867][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/PR1QS01SW5BWFPFZ9C79RF_Auto5EB985365458D034BBE660EB68D579CC7.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/PR1QS01SW5BWFPFZ9C79RF_Auto5.uasset'
+[2025.03.21-15.01.24:868][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/I0/RSLCNVE6HMY0Y77408220B_Auto5
+[2025.03.21-15.01.24:868][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/RSLCNVE6HMY0Y77408220B_Auto5C148C66D42800069C070DA975E63C086.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/I0/RSLCNVE6HMY0Y77408220B_Auto5.uasset'
+[2025.03.21-15.01.24:869][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/7M/3271AFJBAGTXGEG8FPGHGD_Auto5
+[2025.03.21-15.01.24:869][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/3271AFJBAGTXGEG8FPGHGD_Auto5953EC73B461E0AC840094A9053C1BC4C.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/7M/3271AFJBAGTXGEG8FPGHGD_Auto5.uasset'
+[2025.03.21-15.01.24:872][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/HM/JTUFY2OPZ47IQ8SPGUB5PL_Auto5
+[2025.03.21-15.01.24:872][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/JTUFY2OPZ47IQ8SPGUB5PL_Auto5EB2E7B384BE023B905EB638242841393.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/HM/JTUFY2OPZ47IQ8SPGUB5PL_Auto5.uasset'
+[2025.03.21-15.01.24:874][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/P1/WHZA6XKX9570REPZQBKLCL_Auto5
+[2025.03.21-15.01.24:874][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/WHZA6XKX9570REPZQBKLCL_Auto56B49982744567C233977DD93DCE64A85.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/P1/WHZA6XKX9570REPZQBKLCL_Auto5.uasset'
+[2025.03.21-15.01.24:875][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/Y7/H8THZBVUB4KO9GKKPSYILP_Auto5
+[2025.03.21-15.01.24:875][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/H8THZBVUB4KO9GKKPSYILP_Auto590C1B30D46A83C6A209F6E80D57CD348.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/Y7/H8THZBVUB4KO9GKKPSYILP_Auto5.uasset'
+[2025.03.21-15.01.24:877][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/4Z/D03FR4AK1VBQG7K0F1F4DU_Auto5
+[2025.03.21-15.01.24:877][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/D03FR4AK1VBQG7K0F1F4DU_Auto5CD0935F04E17EFA25E9FEAB0CA09C0D1.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/4Z/D03FR4AK1VBQG7K0F1F4DU_Auto5.uasset'
+[2025.03.21-15.01.24:879][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/J1/K9E2EA12WMGDOX24R6NIRN_Auto5
+[2025.03.21-15.01.24:879][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/K9E2EA12WMGDOX24R6NIRN_Auto5CA74660145FBAC0027B45684B4D476F4.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/J1/K9E2EA12WMGDOX24R6NIRN_Auto5.uasset'
+[2025.03.21-15.01.24:881][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/85/33PXBLJ6VIYANVQFEHT66R_Auto5
+[2025.03.21-15.01.24:881][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/33PXBLJ6VIYANVQFEHT66R_Auto591C9BDDC48DC0C575569EAAFA4680E1F.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/85/33PXBLJ6VIYANVQFEHT66R_Auto5.uasset'
+[2025.03.21-15.01.24:882][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/F/3K/0QVDSCF9NH3X99PGBISXF2_Auto5
+[2025.03.21-15.01.24:882][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/0QVDSCF9NH3X99PGBISXF2_Auto5D64CD95D4579CC5571FD988A530AF1C6.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/F/3K/0QVDSCF9NH3X99PGBISXF2_Auto5.uasset'
+[2025.03.21-15.01.24:885][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/1R/MQP3R1BHTWSQIRKAI5J4FF_Auto5
+[2025.03.21-15.01.24:885][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MQP3R1BHTWSQIRKAI5J4FF_Auto5403E83914A3C676CF000888A70E0ED35.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/1R/MQP3R1BHTWSQIRKAI5J4FF_Auto5.uasset'
+[2025.03.21-15.01.24:887][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/0R/N2R2O0JPRDAHQ7YLEIXLNL_Auto5
+[2025.03.21-15.01.24:887][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/N2R2O0JPRDAHQ7YLEIXLNL_Auto5CFADCC3B4A3B1C37B6D9219E912D059B.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/0R/N2R2O0JPRDAHQ7YLEIXLNL_Auto5.uasset'
+[2025.03.21-15.01.24:888][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.088
+[2025.03.21-15.01.24:888][640]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2025.03.21-15.01.24:888][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Enemy/apEnemyAI] ([2] browsable assets)...
+[2025.03.21-15.01.24:888][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy/apEnemyAI]
+[2025.03.21-15.01.24:895][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy/apEnemyAI_Auto5
+[2025.03.21-15.01.24:895][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/apEnemyAI_Auto57419C43649C996D8665FEB92FCDD3377.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/Characters/Enemy/apEnemyAI_Auto5.uasset'
+[2025.03.21-15.01.24:896][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Basic_Floor] ([1] browsable assets)...
+[2025.03.21-15.01.25:935][640]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor]
+[2025.03.21-15.01.25:935][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Basic_Floor]
+[2025.03.21-15.01.25:938][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Basic_Floor_Auto5
+[2025.03.21-15.01.25:938][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/M_Basic_Floor_Auto54FEEBA4B40CD51CEEA3DD4934DD234A7.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/StarterContent/Materials/M_Basic_Floor_Auto5.uasset'
+[2025.03.21-15.01.25:940][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/Materials/M_TableRound] ([1] browsable assets)...
+[2025.03.21-15.01.25:946][640]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound]
+[2025.03.21-15.01.25:946][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Materials/M_TableRound]
+[2025.03.21-15.01.25:948][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Props/Materials/M_TableRound_Auto5
+[2025.03.21-15.01.25:948][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/M_TableRound_Auto57AF928654C68C1714305EE9DD69D77B9.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/StarterContent/Props/Materials/M_TableRound_Auto5.uasset'
+[2025.03.21-15.01.25:949][640]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelPrototyping/Meshes/M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572] ([2] browsable assets)...
+[2025.03.21-15.01.25:956][640]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/LevelPrototyping/Meshes/M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572.M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572]
+[2025.03.21-15.01.25:957][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Meshes/M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572.T_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_BaseColor]
+[2025.03.21-15.01.25:957][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572]
+[2025.03.21-15.01.25:959][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_Auto5
+[2025.03.21-15.01.25:959][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/M_SM_Cube_M_Ground_Grass_955B596EE7FF8A1446446B3B87DFFBF578621B2.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/LevelPrototyping/Meshes/M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_Auto5.uasset'
+[2025.03.21-15.01.25:960][640]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelPrototyping/Meshes/M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870] ([2] browsable assets)...
+[2025.03.21-15.01.25:966][640]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/LevelPrototyping/Meshes/M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870.M_M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870]
+[2025.03.21-15.01.25:967][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Meshes/M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870.T_M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870_BaseColor]
+[2025.03.21-15.01.25:967][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870]
+[2025.03.21-15.01.25:970][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870_Auto5
+[2025.03.21-15.01.25:971][640]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/M_SM_Cube_M_M_SM_Cube_M_Ground_G4A936F86434888081BDB9DA06283E74B.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/Autosaves/Game/LevelPrototyping/Meshes/M_SM_Cube_M_M_SM_Cube_M_Ground_Grass_955B596A41DFA128591E0B8BFEF00572_B837C5E742E89F675626F3AFA24EE870_Auto5.uasset'
+[2025.03.21-15.01.25:971][640]LogFileHelpers: Auto-saving content packages took 1.084
+[2025.03.21-15.01.41:835][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-15.01.41:910][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.21-15.01.41:922][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.21-15.01.41:933][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.21-15.01.41:936][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/MB/J5WHCOZ4GU1YICRISB3DL6
+[2025.03.21-15.01.41:937][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/J5WHCOZ4GU1YICRISB3DL6C9120D684E27E821ACA46CA81C2B3459.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/MB/J5WHCOZ4GU1YICRISB3DL6.uasset'
+[2025.03.21-15.01.41:939][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/WM/EHOX3YPZ8BWS13D7E6IFN2
+[2025.03.21-15.01.41:940][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/EHOX3YPZ8BWS13D7E6IFN2A014D5774EE85924A43FD189A14046B7.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/WM/EHOX3YPZ8BWS13D7E6IFN2.uasset'
+[2025.03.21-15.01.41:942][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/0N/RL1TIHXDU71LV1ECFNNBRR
+[2025.03.21-15.01.41:943][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/RL1TIHXDU71LV1ECFNNBRR08C785904FF0D27711117D939EE5C2E8.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/0N/RL1TIHXDU71LV1ECFNNBRR.uasset'
+[2025.03.21-15.01.41:944][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/T3/MZCM8LHMP1PCMGK33WH67N
+[2025.03.21-15.01.41:945][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MZCM8LHMP1PCMGK33WH67N74FFFEA44626E4F701422BBFC65302C4.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/T3/MZCM8LHMP1PCMGK33WH67N.uasset'
+[2025.03.21-15.01.41:947][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/HP/54G0WUXJN23S1QLIDW2G95
+[2025.03.21-15.01.41:948][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/54G0WUXJN23S1QLIDW2G95053758954173553370A33DB9BE678CE2.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/HP/54G0WUXJN23S1QLIDW2G95.uasset'
+[2025.03.21-15.01.41:950][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/S6/RIUCPKK3VRMSYLN0I91KZ8
+[2025.03.21-15.01.41:950][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/RIUCPKK3VRMSYLN0I91KZ8ACBF9AE746B9A029B63753B1EB97F9DC.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/S6/RIUCPKK3VRMSYLN0I91KZ8.uasset'
+[2025.03.21-15.01.41:952][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/SB/DVQ5S68IUIMAJN0P0HA52Y
+[2025.03.21-15.01.41:953][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/DVQ5S68IUIMAJN0P0HA52YD202DC1E4CD7143CCDA3C4B062700A5B.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/SB/DVQ5S68IUIMAJN0P0HA52Y.uasset'
+[2025.03.21-15.01.41:956][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/LQ/C0XZ6NYGXKWM3ZFVZJX8PW
+[2025.03.21-15.01.41:956][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/C0XZ6NYGXKWM3ZFVZJX8PW3A04AADD44838470D01C80A4D6CE688B.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/LQ/C0XZ6NYGXKWM3ZFVZJX8PW.uasset'
+[2025.03.21-15.01.41:958][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK
+[2025.03.21-15.01.41:959][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/XOAZMB5QVL20UGXOCZ1LZK38E2B9B0400F88285529B1BECEA169EF.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset'
+[2025.03.21-15.01.41:961][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/QE/I29UC0WQ1PRG4QCA0WAYDX
+[2025.03.21-15.01.41:962][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/I29UC0WQ1PRG4QCA0WAYDX60E567BD498BC8C5AC1FAAA632E721E7.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/QE/I29UC0WQ1PRG4QCA0WAYDX.uasset'
+[2025.03.21-15.01.41:964][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/82/MH2RX5I0YPUW9CQS60Z9FZ
+[2025.03.21-15.01.41:964][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MH2RX5I0YPUW9CQS60Z9FZ457410C34EE9CA6822508795A0CED1B5.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/82/MH2RX5I0YPUW9CQS60Z9FZ.uasset'
+[2025.03.21-15.01.41:966][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/CH/8BFSE0OP1450WCGMXY7WKH
+[2025.03.21-15.01.41:966][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/8BFSE0OP1450WCGMXY7WKH304FE72642AD57D5AE0DD2944DA5B70C.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/CH/8BFSE0OP1450WCGMXY7WKH.uasset'
+[2025.03.21-15.01.41:968][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/HD/XQWKC76FO76M7YDTHNXQGV
+[2025.03.21-15.01.41:969][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/XQWKC76FO76M7YDTHNXQGVA2A513EF4DF4DBCBBDF488AA046B9AA0.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/HD/XQWKC76FO76M7YDTHNXQGV.uasset'
+[2025.03.21-15.01.41:971][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/IH/VGSY15OFA48JW2MQVTVU8L
+[2025.03.21-15.01.41:971][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/VGSY15OFA48JW2MQVTVU8L634DF9884BE3E92B483042876F4BC4CB.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/IH/VGSY15OFA48JW2MQVTVU8L.uasset'
+[2025.03.21-15.01.41:973][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8
+[2025.03.21-15.01.41:973][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/KCOU8O5LTCF16FPA9RNLK8755A3B7B4C95C7660DAA49987E30936C.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset'
+[2025.03.21-15.01.41:976][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/81/ZKX29DC0MVHKRDA593CYHG
+[2025.03.21-15.01.41:977][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/ZKX29DC0MVHKRDA593CYHG231C648744C03F43A1497EA0DB946C38.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/81/ZKX29DC0MVHKRDA593CYHG.uasset'
+[2025.03.21-15.01.41:979][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/DI/12FWOAABBIYZHZ6R2WANOO
+[2025.03.21-15.01.41:979][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/12FWOAABBIYZHZ6R2WANOO066DDD834C8C4DF2DE47BCB209EC8A77.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/DI/12FWOAABBIYZHZ6R2WANOO.uasset'
+[2025.03.21-15.01.41:982][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/YD/RBZD6MG2XUPPE8HGQNSM68
+[2025.03.21-15.01.41:982][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/RBZD6MG2XUPPE8HGQNSM68FDBED4E54A45713AAB56A5A6D0774E07.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/YD/RBZD6MG2XUPPE8HGQNSM68.uasset'
+[2025.03.21-15.01.41:984][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/BT/VXYK1VIHDY1PX5VCFY0RTE
+[2025.03.21-15.01.41:985][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/VXYK1VIHDY1PX5VCFY0RTE74B36ADC4F1A64011ED3BF9DF7E244EB.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/BT/VXYK1VIHDY1PX5VCFY0RTE.uasset'
+[2025.03.21-15.01.41:987][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/FI/60T1Y9H6JUROKGN63JFOIZ
+[2025.03.21-15.01.41:988][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/60T1Y9H6JUROKGN63JFOIZ0E51234C4302DF74EC55AE853B45E76A.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/FI/60T1Y9H6JUROKGN63JFOIZ.uasset'
+[2025.03.21-15.01.41:990][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/Q8/PTGUK37R2S64YD41PAYDAW
+[2025.03.21-15.01.41:991][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/PTGUK37R2S64YD41PAYDAWFE36D4F643A6875C15F60AA706489ADE.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/Q8/PTGUK37R2S64YD41PAYDAW.uasset'
+[2025.03.21-15.01.41:993][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/AO/MOS2K0LTUH3RKBWXWHNAGV
+[2025.03.21-15.01.41:994][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MOS2K0LTUH3RKBWXWHNAGV80C50C514299BB18FD05CD8A11B97F8D.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/AO/MOS2K0LTUH3RKBWXWHNAGV.uasset'
+[2025.03.21-15.01.41:995][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/H5/O4JKMMTU3YENYCYE2BRNLX
+[2025.03.21-15.01.41:996][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/O4JKMMTU3YENYCYE2BRNLXE1121D7B4AD098172C24E3A8F7FAC59F.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/H5/O4JKMMTU3YENYCYE2BRNLX.uasset'
+[2025.03.21-15.01.41:998][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/HJ/EVUEG1WGIQ5AE8Q7ORDUX8
+[2025.03.21-15.01.41:999][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/EVUEG1WGIQ5AE8Q7ORDUX89CD6A5C94A22801E4085CEB3694122EB.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/HJ/EVUEG1WGIQ5AE8Q7ORDUX8.uasset'
+[2025.03.21-15.01.42:001][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/0K/H6PAO25ECLK1JTSUZ8WEU2
+[2025.03.21-15.01.42:001][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/H6PAO25ECLK1JTSUZ8WEU2C413532B456E5E583F422DA6450C8890.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/0K/H6PAO25ECLK1JTSUZ8WEU2.uasset'
+[2025.03.21-15.01.42:003][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/PR1QS01SW5BWFPFZ9C79RF
+[2025.03.21-15.01.42:004][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/PR1QS01SW5BWFPFZ9C79RF93A391664FE1FD0A116D2ABBF4948F7E.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/PR1QS01SW5BWFPFZ9C79RF.uasset'
+[2025.03.21-15.01.42:006][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/I0/RSLCNVE6HMY0Y77408220B
+[2025.03.21-15.01.42:007][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/RSLCNVE6HMY0Y77408220BFBE31BE9411E4F3A8B5AF580916F5A90.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/I0/RSLCNVE6HMY0Y77408220B.uasset'
+[2025.03.21-15.01.42:009][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/7M/3271AFJBAGTXGEG8FPGHGD
+[2025.03.21-15.01.42:010][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/3271AFJBAGTXGEG8FPGHGDAA7FB8B54F694982B0B8798C809E8CCB.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/7M/3271AFJBAGTXGEG8FPGHGD.uasset'
+[2025.03.21-15.01.42:012][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/HM/JTUFY2OPZ47IQ8SPGUB5PL
+[2025.03.21-15.01.42:013][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/JTUFY2OPZ47IQ8SPGUB5PLBDC6FA3C4CA76EFD745C4CBEE555192C.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/HM/JTUFY2OPZ47IQ8SPGUB5PL.uasset'
+[2025.03.21-15.01.42:015][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/P1/WHZA6XKX9570REPZQBKLCL
+[2025.03.21-15.01.42:015][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/WHZA6XKX9570REPZQBKLCLE226C3C84E600D7512BC2A81F7BFA31F.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/P1/WHZA6XKX9570REPZQBKLCL.uasset'
+[2025.03.21-15.01.42:017][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/Y7/H8THZBVUB4KO9GKKPSYILP
+[2025.03.21-15.01.42:018][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/H8THZBVUB4KO9GKKPSYILP41FF25DB4473BAD0B2864493CF2F0DFA.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/Y7/H8THZBVUB4KO9GKKPSYILP.uasset'
+[2025.03.21-15.01.42:020][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/4Z/D03FR4AK1VBQG7K0F1F4DU
+[2025.03.21-15.01.42:021][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/D03FR4AK1VBQG7K0F1F4DUC67A26754EDE0A30BE040C8E4320048B.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/4Z/D03FR4AK1VBQG7K0F1F4DU.uasset'
+[2025.03.21-15.01.42:023][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/J1/K9E2EA12WMGDOX24R6NIRN
+[2025.03.21-15.01.42:024][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/K9E2EA12WMGDOX24R6NIRNE8D308A143A2747D6D69AA9E4DE9D724.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/J1/K9E2EA12WMGDOX24R6NIRN.uasset'
+[2025.03.21-15.01.42:027][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/85/33PXBLJ6VIYANVQFEHT66R
+[2025.03.21-15.01.42:027][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/33PXBLJ6VIYANVQFEHT66R90C23400481B6F0A406E8D97E2D06B1C.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/85/33PXBLJ6VIYANVQFEHT66R.uasset'
+[2025.03.21-15.01.42:029][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/F/3K/0QVDSCF9NH3X99PGBISXF2
+[2025.03.21-15.01.42:030][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/0QVDSCF9NH3X99PGBISXF2FD5501F341043EF5DDF1CB8433C05E98.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/F/3K/0QVDSCF9NH3X99PGBISXF2.uasset'
+[2025.03.21-15.01.42:032][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/1R/MQP3R1BHTWSQIRKAI5J4FF
+[2025.03.21-15.01.42:032][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/MQP3R1BHTWSQIRKAI5J4FF4C3603FF461C571AEA97B086F9249C6B.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/1R/MQP3R1BHTWSQIRKAI5J4FF.uasset'
+[2025.03.21-15.01.42:034][583]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/0R/N2R2O0JPRDAHQ7YLEIXLNL
+[2025.03.21-15.01.42:034][583]LogSavePackage: Moving '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Saved/N2R2O0JPRDAHQ7YLEIXLNL729B595F49D4BBDAE7DFCD8DFE2BBC9D.tmp' to '../../../../../../Users/Kieran Sayer/Documents/GitHub/group4unrealgame/UnrealGame/Group4Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/0R/N2R2O0JPRDAHQ7YLEIXLNL.uasset'
+[2025.03.21-15.01.42:043][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 1.63 sec)
+[2025.03.21-15.01.42:053][583]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_23
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_18
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_1500578761
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_1389827760
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AE5602_1260460947
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1406839175
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AE5602_1319859949
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_1096367759
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_17
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_1832840764
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1679733184
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_1819603763
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1283639172
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_1
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_22
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_1909911765
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1518819177
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AE5602_1083295944
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AE5602_1298532948
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1644243183
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_1803948762
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1144275167
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AE5602_1251096946
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1315765173
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1192059169
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_19
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1495134176
+[2025.03.21-15.01.42:053][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1748138186
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1624622182
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_2027808766
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1887547187
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1228014170
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AD5602_2086799767
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3AE5602_1202052945
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1550133178
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.BlockingVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BlockingVolume_UAID_C0A5E8E8DBF34A5702_1789588395
+[2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.BlockingVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BlockingVolume_UAID_C0A5E8E8DBF34A5702_2037204397
