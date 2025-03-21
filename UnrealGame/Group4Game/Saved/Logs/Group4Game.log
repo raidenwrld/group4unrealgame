@@ -2844,3 +2844,180 @@ UnknownFunction []
 [2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_C0A5E8E8DBF3BB5502_1550133178
 [2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.BlockingVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BlockingVolume_UAID_C0A5E8E8DBF34A5702_1789588395
 [2025.03.21-15.01.42:054][583]LogContentValidation: Display: Validating /Script/Engine.BlockingVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BlockingVolume_UAID_C0A5E8E8DBF34A5702_2037204397
+[2025.03.21-15.02.48:840][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.21-15.02.48:845][133]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.21-15.02.48:845][133]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.03.21-15.02.48:846][133]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 18 ms)
+[2025.03.21-15.02.48:846][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.21-15.02.48:846][133]PIE: New page: PIE session: TopDownMap (21 Mar 2025, 15:02:48)
+[2025.03.21-15.02.48:846][133]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.21-15.02.48:851][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005081s)
+[2025.03.21-15.02.48:851][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.005118s)
+[2025.03.21-15.02.48:859][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.21-15.02.48:861][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.21-15.02.48:861][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-15.02.48:861][133]LogAIModule: Creating AISystem for world TopDownMap
+[2025.03.21-15.02.48:885][133]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.21-15.02.48:885][133]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.21-15.02.48:885][133]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.21-15.02.48:885][133]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.21-15.02.48:886][133]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.03.21-15.02.48:886][133]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 474 ms)
+[2025.03.21-15.02.48:886][133]LogPlayLevel: PIE: World Init took: (0.025896s)
+[2025.03.21-15.02.48:886][133]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.21-15.02.48:886][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.21-15.02.48:886][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.21-15.02.48:886][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.21-15.02.48:887][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.21-15.02.48:887][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.21-15.02.48:887][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.21-15.02.48:887][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.21-15.02.48:887][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.21-15.02.48:887][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.21-15.02.48:887][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.21-15.02.48:887][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.21-15.02.48:889][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.21-15.02.49:249][133]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.21-15.02.49:250][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.21-15.02.49:250][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.21-15.02.49:250][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.21-15.02.49:250][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.21-15.02.49:250][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.21-15.02.49:252][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.21-15.02.49:252][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.21-15.02.49:252][133]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.21-15.02.49:252][133]LogAudio: Display: Audio Device (ID: 11) registered with world 'TopDownMap'.
+[2025.03.21-15.02.49:252][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.21-15.02.49:255][133]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.03.21-15.02.49:262][133]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2025.03.21-15.02.49
+[2025.03.21-15.02.49:265][133]LogWorld: Bringing up level for play took: 0.009973
+[2025.03.21-15.02.49:266][133]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.03.21-15.02.49:269][133]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] GAME START
+[2025.03.21-15.02.49:270][133]PIE: Server logged in
+[2025.03.21-15.02.49:271][133]PIE: Play in editor total start time 0.426 seconds.
+[2025.03.21-15.02.49:900][166]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 30
+[2025.03.21-15.02.50:898][226]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 29
+[2025.03.21-15.02.51:899][286]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 28
+[2025.03.21-15.02.52:898][346]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 27
+[2025.03.21-15.02.53:898][406]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 26
+[2025.03.21-15.02.54:247][427]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] Score:10
+[2025.03.21-15.02.54:899][466]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 25
+[2025.03.21-15.02.55:899][526]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 24
+[2025.03.21-15.02.56:898][586]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 23
+[2025.03.21-15.02.57:898][646]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 22
+[2025.03.21-15.02.58:898][706]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 21
+[2025.03.21-15.02.59:597][748]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] Score:20
+[2025.03.21-15.02.59:899][766]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 20
+[2025.03.21-15.03.00:899][826]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 19
+[2025.03.21-15.03.01:899][886]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 18
+[2025.03.21-15.03.02:899][946]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 17
+[2025.03.21-15.03.03:899][  6]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 16
+[2025.03.21-15.03.04:899][ 66]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 15
+[2025.03.21-15.03.05:899][126]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 14
+[2025.03.21-15.03.06:898][186]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 13
+[2025.03.21-15.03.07:899][246]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 12
+[2025.03.21-15.03.08:665][292]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] Score:30
+[2025.03.21-15.03.08:899][306]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 11
+[2025.03.21-15.03.09:899][366]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 10
+[2025.03.21-15.03.10:898][426]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] Score:40
+[2025.03.21-15.03.10:900][426]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 9
+[2025.03.21-15.03.11:899][486]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 8
+[2025.03.21-15.03.12:899][546]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 7
+[2025.03.21-15.03.13:900][606]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 6
+[2025.03.21-15.03.14:899][666]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 5
+[2025.03.21-15.03.15:900][726]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 4
+[2025.03.21-15.03.16:899][786]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 3
+[2025.03.21-15.03.17:899][846]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 2
+[2025.03.21-15.03.18:900][906]LogBlueprintUserMessages: [BP_TopDownGameMode_C_0] 1
+[2025.03.21-15.03.23:768][198]LogViewport: Scene viewport resized to 1596x1214, mode Windowed.
+[2025.03.21-15.03.23:783][199]LogViewport: Scene viewport resized to 1602x1214, mode Windowed.
+[2025.03.21-15.03.23:801][200]LogViewport: Scene viewport resized to 1621x1214, mode Windowed.
+[2025.03.21-15.03.23:828][201]LogViewport: Scene viewport resized to 1659x1214, mode Windowed.
+[2025.03.21-15.03.23:845][202]LogViewport: Scene viewport resized to 1677x1214, mode Windowed.
+[2025.03.21-15.03.23:864][203]LogViewport: Scene viewport resized to 1697x1214, mode Windowed.
+[2025.03.21-15.03.23:886][204]LogViewport: Scene viewport resized to 1736x1214, mode Windowed.
+[2025.03.21-15.03.23:911][205]LogViewport: Scene viewport resized to 1785x1214, mode Windowed.
+[2025.03.21-15.03.23:929][206]LogViewport: Scene viewport resized to 1831x1214, mode Windowed.
+[2025.03.21-15.03.23:961][207]LogViewport: Scene viewport resized to 1871x1214, mode Windowed.
+[2025.03.21-15.03.23:988][208]LogViewport: Scene viewport resized to 1918x1214, mode Windowed.
+[2025.03.21-15.03.24:016][209]LogViewport: Scene viewport resized to 1952x1214, mode Windowed.
+[2025.03.21-15.03.24:033][210]LogViewport: Scene viewport resized to 1997x1214, mode Windowed.
+[2025.03.21-15.03.24:058][211]LogViewport: Scene viewport resized to 2046x1214, mode Windowed.
+[2025.03.21-15.03.24:074][212]LogViewport: Scene viewport resized to 2076x1214, mode Windowed.
+[2025.03.21-15.03.24:093][213]LogViewport: Scene viewport resized to 2094x1214, mode Windowed.
+[2025.03.21-15.03.24:124][214]LogViewport: Scene viewport resized to 2115x1214, mode Windowed.
+[2025.03.21-15.03.24:153][215]LogViewport: Scene viewport resized to 2129x1214, mode Windowed.
+[2025.03.21-15.03.24:184][216]LogViewport: Scene viewport resized to 2168x1214, mode Windowed.
+[2025.03.21-15.03.24:211][217]LogViewport: Scene viewport resized to 2203x1214, mode Windowed.
+[2025.03.21-15.03.24:248][218]LogViewport: Scene viewport resized to 2232x1214, mode Windowed.
+[2025.03.21-15.03.24:280][219]LogViewport: Scene viewport resized to 2259x1214, mode Windowed.
+[2025.03.21-15.03.24:308][220]LogViewport: Scene viewport resized to 2288x1214, mode Windowed.
+[2025.03.21-15.03.24:339][221]LogViewport: Scene viewport resized to 2310x1214, mode Windowed.
+[2025.03.21-15.03.24:369][222]LogViewport: Scene viewport resized to 2320x1214, mode Windowed.
+[2025.03.21-15.03.24:402][223]LogViewport: Scene viewport resized to 2336x1214, mode Windowed.
+[2025.03.21-15.03.24:428][224]LogViewport: Scene viewport resized to 2342x1214, mode Windowed.
+[2025.03.21-15.03.48:156][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-15.03.48:156][642]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.21-15.03.48:156][642]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-15.03.48:157][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-15.03.48:157][642]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.03.21-15.03.48:162][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.21-15.03.48:165][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-15.03.48:175][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.21-15.03.48:176][642]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.21-15.03.48:176][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.21-15.03.48:177][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.21-15.03.48:195][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.21-15.03.48:244][643]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.03.21-15.04.02:186][468]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_LoadMenu.WB_LoadMenu
+[2025.03.21-15.04.02:186][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.21-15.04.02:186][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-15.04.02:194][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.21-15.04.02:194][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.21-15.04.02:199][468]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.03.21-15.04.02:493][468]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.03.21-15.04.04:022][555]LogSlate: Window 'WB_LoadMenu' being destroyed
+[2025.03.21-15.04.04:034][555]LogSlate: Window 'WB_LoadMenu' being destroyed
+[2025.03.21-15.04.04:073][555]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-15.04.04:073][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-15.04.04:081][555]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-15.04.04:081][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-15.04.24:206][757]LogViewport: Scene viewport resized to 2341x1214, mode Windowed.
+[2025.03.21-15.04.24:223][758]LogViewport: Scene viewport resized to 2329x1214, mode Windowed.
+[2025.03.21-15.04.24:277][759]LogViewport: Scene viewport resized to 2279x1214, mode Windowed.
+[2025.03.21-15.04.24:305][760]LogViewport: Scene viewport resized to 2252x1214, mode Windowed.
+[2025.03.21-15.04.24:358][761]LogViewport: Scene viewport resized to 2227x1214, mode Windowed.
+[2025.03.21-15.04.24:386][762]LogViewport: Scene viewport resized to 2217x1214, mode Windowed.
+[2025.03.21-15.04.24:414][763]LogViewport: Scene viewport resized to 2210x1214, mode Windowed.
+[2025.03.21-15.04.24:444][764]LogViewport: Scene viewport resized to 2205x1214, mode Windowed.
+[2025.03.21-15.04.24:475][765]LogViewport: Scene viewport resized to 2200x1214, mode Windowed.
+[2025.03.21-15.04.24:505][766]LogViewport: Scene viewport resized to 2195x1214, mode Windowed.
+[2025.03.21-15.04.24:557][767]LogViewport: Scene viewport resized to 2188x1214, mode Windowed.
+[2025.03.21-15.04.24:684][774]LogViewport: Scene viewport resized to 2186x1214, mode Windowed.
+[2025.03.21-15.04.24:702][775]LogViewport: Scene viewport resized to 2182x1214, mode Windowed.
+[2025.03.21-15.04.24:783][776]LogViewport: Scene viewport resized to 2153x1214, mode Windowed.
+[2025.03.21-15.04.24:812][777]LogViewport: Scene viewport resized to 2152x1214, mode Windowed.
+[2025.03.21-15.04.24:847][778]LogViewport: Scene viewport resized to 2151x1214, mode Windowed.
+[2025.03.21-15.04.24:872][779]LogViewport: Scene viewport resized to 2146x1214, mode Windowed.
+[2025.03.21-15.04.24:898][780]LogViewport: Scene viewport resized to 2144x1214, mode Windowed.
+[2025.03.21-15.04.24:974][784]LogViewport: Scene viewport resized to 2141x1214, mode Windowed.
+[2025.03.21-15.04.24:993][785]LogViewport: Scene viewport resized to 2140x1214, mode Windowed.
+[2025.03.21-15.04.25:063][788]LogViewport: Scene viewport resized to 2138x1214, mode Windowed.
+[2025.03.21-15.04.25:083][789]LogViewport: Scene viewport resized to 2133x1214, mode Windowed.
+[2025.03.21-15.04.25:112][790]LogViewport: Scene viewport resized to 2082x1214, mode Windowed.
+[2025.03.21-15.04.25:141][791]LogViewport: Scene viewport resized to 2046x1214, mode Windowed.
+[2025.03.21-15.04.25:169][792]LogViewport: Scene viewport resized to 2020x1214, mode Windowed.
+[2025.03.21-15.04.25:208][793]LogViewport: Scene viewport resized to 2017x1214, mode Windowed.
+[2025.03.21-15.04.25:721][823]LogViewport: Scene viewport resized to 2018x1214, mode Windowed.
+[2025.03.21-15.04.25:835][829]LogViewport: Scene viewport resized to 2022x1214, mode Windowed.
+[2025.03.21-15.04.25:852][830]LogViewport: Scene viewport resized to 2024x1214, mode Windowed.
+[2025.03.21-15.04.25:884][831]LogViewport: Scene viewport resized to 2030x1214, mode Windowed.
+[2025.03.21-15.04.25:906][832]LogViewport: Scene viewport resized to 2031x1214, mode Windowed.
+[2025.03.21-15.04.25:933][833]LogViewport: Scene viewport resized to 2033x1214, mode Windowed.
+[2025.03.21-15.04.25:971][835]LogViewport: Scene viewport resized to 2034x1214, mode Windowed.
+[2025.03.21-15.04.26:003][837]LogViewport: Scene viewport resized to 2035x1214, mode Windowed.
+[2025.03.21-15.05.52:221][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-15.05.52:294][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.21-15.05.52:306][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.21-15.05.52:316][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.21-15.05.52:323][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.73 sec)
